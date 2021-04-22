@@ -1,0 +1,34 @@
+.div-contato {
+    margin: 60px auto 20px auto;
+    font-size: 34px;
+    width: 120px;
+}
+
+.article-contato {
+    display: flex;
+}
+
+.contato-text {
+    margin: auto 0;
+    width: 50%;
+    font-size: 28px;
+}
+
+.contato-text a {
+    color: black;
+}
+
+.contato-text li {
+    margin-bottom: 15px;
+}
+
+.email {
+    margin-top: 90px;    
+    font-size: 28px;
+    width: 100%;
+}
+
+.email p {
+    margin: 0 auto;
+    width: 370px;
+}

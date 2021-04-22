@@ -1,0 +1,28 @@
+.titulo {
+    font-size: 28px;
+    margin-top: 60px;
+}
+
+.portfolio {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.portfolio a {
+    width: 48%;
+    margin: auto;
+}
+
+.propaganda {
+    background-color: #4e6a72;
+    margin: 40px 0 -60px 0;
+    height: 120px;
+}
+
+.propaganda p {
+    margin: auto;
+    padding-top: 40px;
+    font-size: 28px;
+    width: 525px;
+    display: flex;
+}

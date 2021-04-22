@@ -1,0 +1,18 @@
+.section-index {
+	margin-top: 60px;
+	display: flex;
+}
+
+.text-info {
+	margin: auto 0;
+	width: 50%;
+}
+
+.text-info .descrição {
+	font-size: 28px;
+}
+
+.text-info .divulgação {
+	font-weight: bold;
+	font-size: 36px;
+}

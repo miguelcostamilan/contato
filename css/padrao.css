@@ -1,0 +1,110 @@
+@charset "utf-8";
+
+
+
+/* Reset */
+
+
+* {
+	font-family: acumin-pro, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	box-sizing: border-box;
+}
+
+body, ul, p {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	width: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+.tamanho-padrao {
+	max-width: 1366px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+
+
+/* Menu */
+
+
+.nav-padrao {
+	padding: 20px;
+	display: flex;
+	background-color: #4E6A72;
+	justify-content: space-between;
+}
+
+.nav-padrao img {
+	width: 180px;
+}
+
+.ul-menu {
+	width: 350px;
+	display: flex;
+	font-size: 18px;
+	margin-right: 100px;
+	justify-content: space-between;
+}
+
+.ul-hover li {
+	font-size: 18px;
+	margin: auto 0;
+}
+
+.ul-hover li a {
+	color: #131313;
+	opacity: 0.9;
+}
+
+.ul-hover li a:hover {
+	color: black;
+	opacity: 1;
+}
+
+
+
+/* Css para padronizar a imagem circular */
+
+
+.cont-img {
+	width: 50%;
+}
+
+.cont-img img {
+	border-radius: 50%;
+	overflow: hidden;
+	width: 80%;
+}
+
+
+
+/* footer */
+
+
+.footer-padrao {
+	background-color: #4E6A72;
+	margin-top: 67px;
+	height: 120px;
+	padding: 20px;
+}
+
+.ul-footer {
+	width: 70%;
+	height: 100%;
+	display: flex;
+    margin: 0 auto;
+	justify-content: space-between;
+}

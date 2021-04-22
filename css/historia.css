@@ -1,0 +1,15 @@
+.historia h2 {
+    font-size: 34px;
+    margin: 60px auto;
+    width: 230px;
+}
+
+.historia-cont {
+    display: flex;
+}
+
+.cont-text {
+    width: 50%;
+    font-size: 28px;
+    margin: auto 0;
+}
